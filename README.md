@@ -6,6 +6,13 @@
 
 Подробнее — в [статье на Хабре](https://habr.com/ru/articles/1019444/).
 
+## Другие мои инструкции:
+
+[INSTRUCTION GENTLEMAN]([https://github.com/Loc-ID/BRO](https://github.com/Loc-ID/instruction-gentleman)).
+
+[Philosophical_instruction BETA](https://github.com/Loc-ID/Philosophical_instruction).
+
+
 ---
 
 ## Как запустить
