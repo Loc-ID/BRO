@@ -8,7 +8,7 @@
 
 ## Другие мои инструкции:
 
-[INSTRUCTION GENTLEMAN]([https://github.com/Loc-ID/BRO](https://github.com/Loc-ID/instruction-gentleman)).
+[INSTRUCTION GENTLEMAN](https://github.com/Loc-ID/instruction-gentleman)).
 
 [Philosophical_instruction BETA](https://github.com/Loc-ID/Philosophical_instruction).
 
